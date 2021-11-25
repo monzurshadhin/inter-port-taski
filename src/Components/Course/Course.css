@@ -1,0 +1,67 @@
+.course-card {
+  position: relative;
+
+  border-radius: 10px;
+}
+.deadline {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  margin: 24px;
+  color: white;
+  font-size: 16px;
+}
+.registration-btn {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  margin: 24px;
+  color: white;
+  background-color: #27ae6033;
+  border: 1px solid #27ae5ffb;
+  outline: none;
+  border-radius: 5px;
+  font-size: 13px;
+  padding: 10px 16px;
+  font-weight: 600;
+}
+.small-title {
+  font-size: 16px;
+  line-height: 24px;
+}
+.title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 26px;
+  height: 60px;
+  margin-bottom: 30px;
+}
+.info p {
+  font-size: 16px;
+  font-weight: 500;
+  color: black;
+}
+.bottom-info {
+  border-top: 2px solid #e3e3e3;
+  padding: 20px;
+}
+.course-fee {
+  font-size: 18px;
+}
+.enroll-button {
+  background-color: white;
+  border: 3px solid #224497;
+  padding: 8px 20px;
+  border-radius: 6px;
+  color: #224497;
+  font-weight: 700;
+  transition: 0.4s ease;
+}
+.enroll-button:hover {
+  background-color: #224497;
+  border: 3px solid #224497;
+  padding: 8px 20px;
+  border-radius: 6px;
+  color: white;
+  font-weight: 700;
+}

@@ -1,0 +1,29 @@
+.header-logo {
+  width: 141px;
+  height: 56px;
+}
+.navbar-link a {
+  color: #1c1c1c !important;
+
+  font-size: 17px;
+  font-weight: 500;
+}
+.navbar-button {
+  border: 3px solid #224497;
+  background-color: white;
+  color: #224497;
+  font-size: 16px;
+  font-weight: 700;
+  padding: 7px 20px;
+  border-radius: 6px;
+  transition: 0.4s ease;
+}
+.navbar-button:hover {
+  border: 3px solid #224497;
+  background-color: #224497;
+  color: white;
+  font-size: 16px;
+  font-weight: 700;
+  padding: 7px 20px;
+  border-radius: 6px;
+}

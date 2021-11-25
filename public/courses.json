@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "CILT International Certificate in Logistics and Transport",
+    "smallTitle": "Professional Qualification Program",
+    "duration": 6,
+    "students": 24,
+    "date": "20 Dec, 2021",
+    "price": "20,000",
+    "deadline": "10 Dec, 2021",
+    "img": "https://i.ibb.co/PFx0nPp/thumbnail1.png"
+  },
+  {
+    "id": 2,
+    "title": "Incoterms® 2020",
+    "smallTitle": "Professional Qualification Program",
+    "duration": 6,
+    "students": 24,
+    "date": "20 Dec, 2021",
+    "price": "65,000",
+    "deadline": "10 Dec, 2021",
+    "img": "https://i.ibb.co/qjf64Mv/thumbnail2.png"
+  },
+  {
+    "id": 3,
+    "title": "CILT International Certificate in Logistics and Transport",
+    "smallTitle": "Professional Qualification Program",
+    "duration": 6,
+    "students": 24,
+    "date": "20 Dec, 2021",
+    "price": "20,000",
+    "deadline": "10 Dec, 2021",
+    "img": "https://i.ibb.co/PFx0nPp/thumbnail1.png"
+  }
+]

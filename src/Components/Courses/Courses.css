@@ -1,0 +1,19 @@
+.courses-title {
+  font-size: 56px;
+  font-weight: 700;
+  color: #151515;
+  margin-top: 100px;
+  margin-bottom: 24px;
+  line-height: 60px;
+}
+.courses-details {
+  font-weight: 400;
+  font-size: 18px;
+  color: black;
+  margin-bottom: 48px;
+  max-width: 624px;
+  line-height: 32px;
+}
+.row-section {
+  margin-bottom: 123px;
+}
